@@ -501,11 +501,7 @@ I'm always interested in learning, collaborating, discussing technology, and bui
   <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.youtube.com/@ShivaGamingHQ">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
+<a href="https://www.instagram.com/itz_me_shiva_29_">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
